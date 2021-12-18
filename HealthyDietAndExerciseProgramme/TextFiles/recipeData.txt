@@ -1,0 +1,23 @@
+recipeName;recipeDescription
+Non-fat salad;Cut cucumber, lettuce,onion and tomato.Add lemon or pomegranate molasses if you want.
+Salad with tuna;Cut cucumber, lettuce,onion and tomato.Add lemon or pomegranate molasses if you want.Add tuna.
+Boiled egg;Put the water and the egg in the bowl.Turn off the stove 5 minutes after the water starts boiling.
+Omelet;Break the egg into a bowl.Cut some cheese and a little parsley and add to the bowl.Stir a little and cook in a pan without oil.
+Green beans;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the green beans on it. Wait for it to cook.
+Orka;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the orka on it. Wait for it to cook.
+Leek;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the leek on it. Wait for it to cook.
+Celery;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the celery on it. Wait for it to cook.
+Artichoke;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the artichoke on it. Wait for it to cook.
+Eggplant;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the eggplant on it. Wait for it to cook.
+Pumpkin;Chop the onion like a cube. cook the onion in a pot with a little oil. Cut the tomatoes and add to the pot.Add the pumpkin on it. Wait for it to cook.
+Grilled chicken;cut the chicken like a cube. cook in a pan without oil.
+Tomatos soup;cook flour and oil in the pot. Add the grated tomato and water on it.
+Lentil soup;Fry the onion in oil. Add water, pool, potatoes and lentils to the pot.After cooking a little, mash it with a blender.
+Barley noodles soup;Put oil, tomato paste and water in the pot.Add the barley noodles after cooking a little.
+Chickpeas;First boil the chickpeas in a pot.Roast onion, oil and tomato paste on another side.Add chickpea and water to it.
+Chicken with vegetables;Chop the pepper and tomato. Cook with a little oil in a frying pan.Add chicken on top and cook.
+Meetball;Grate the onion. Cut the parsley, add all the minced meat and mix.After shaping the meatballs, cook in a pan without oil.
+Grilled fish;Cook the fish well in a pan without oil.
+Mixed vegetables;Cut zucchini, pepper, eggplant and potato like cubes.Bake it in the oven.
+Pasta;Add the pasta to the boiled water.Cook in 10-12 minutes.
+Rice;Roast oil and barley vermicelli in pot.Add rice and water and let it cook.

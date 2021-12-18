@@ -1,0 +1,10 @@
+username;password;programmeSelection(0-lossWeight,1-gainWeight,2-stayFit);beginTime(dd.mm.yy)-endTime;beginWeight-endWeight;height;age;sex;dietSelection(0-Normal,1-Vegetarian,2-Vegan);nutritionalDisease(0-Normal,1-Diabetes,2-Celiac,3-Reflux);progressScore;currentMenuId
+alabcac;123123;2;01.03.2020-01.04.2020;40.0;140;18;male;0;0;0.0;0
+merhaba;123123;0;01.01.2020-01.04.2020;51.0-40.0;140;18;male;0;0;0.0;0
+123can;123sifre;1;01.01.2020-01.02.2020;40.0-44.0;140;18;male;0;0;0.0;0
+can123;123123;1;01.01.2020-01.05.2020;40.0-42.0;140;18;female;0;0;0.0;0
+can1231;123123;0;01.01.2020-01.05.2020;42.0-40.0;140;18;female;0;0;0.0;30
+tester1;123sifre;1;01.01.2020-01.02.2020;40.0-46.0;140;18;male;0;0;0.0;0
+cancan;123can;1;11.01.2020-01.05.2020;40.0-43.0;140;21;male;0;0;0.0;0
+tester3;123123;0;01.01.2020-01.03.2020;42.0-40.0;140;18;female;0;0;0.0;0
+balcan;123123;0;01.01.2020-01.03.2020;52.0-40.0;140;24;male;0;0;0.0;76
